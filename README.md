@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate on Python for Game Devlopment 🎮
 - 📫 How to reach me - You can see me on Github, Youtube, Discord and Twitch
 - 🏫 I have Learn JS, HTML, CSS, Arduino, Java
+- 🎒 I am in Class 7th
+- 🎉I live in Maharashtra and in Buldana 👦
 
 
 Give me Star on All Github Projects ⭐
