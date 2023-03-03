@@ -1,30 +1,31 @@
-![image](https://user-images.githubusercontent.com/78291316/222805211-07f56f34-bc3c-4ec7-8172-302e20bbc489.png)
-
-![LEii2CLW](https://user-images.githubusercontent.com/78291316/222806851-a8eeea80-1c0c-44ab-b603-698d22fee98b.gif)
+# ![Greetings](https://user-images.githubusercontent.com/78291316/222813359-7023f917-d906-43b9-85ea-c27de5d44da9.gif)
 
 
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=anshumanbahekar)](https://git.io/streak-stats)
+  
+   [![GitHub Streak](https://streak-stats.demolab.com/?user=anshumanbahekar)](https://git.io/streak-stats)
+
+
+
+
+
+
+### 📊 Github Stats:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anshumanbahekar)](https://github.com/anuraghazra/github-readme-stats)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anshumanbahekar&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=anshumanbahekar&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+![contributionbar](https://raw.githubusercontent.com/VikashPR/VikashPR/728c3efb687e791e7c393325f01482901dd155e5/github-contribution-grid-snake-dark.svg)
 
 
 
 
-
-
-
-
-![hr](https://cdn.discordapp.com/attachments/870649335451361320/870944688545366057/Narrow_rgb_loading.gif)
-
-### 🚀 About Me
-
-![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c494e4b4544494e2d626c75653f7374796c653d666c61742d737175617265266c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f7777772e6c696e6b6564696e2](https://user-images.githubusercontent.com/78291316/222795730-9c7ff7bd-4543-47c9-ac5c-7aac86d172a8.svg)
 
 
 ### 🔨 Tech Stack
@@ -52,14 +53,8 @@
 ![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a51756572792d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d6a7175657279](https://user-images.githubusercontent.com/78291316/222793951-b0258f8a-c8da-4d6c-a1ae-76d8b718fc2d.svg)
 ![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4772617068514c2d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d6772617068716c](https://user-images.githubusercontent.com/78291316/222793962-7eb2f7f7-fc90-43df-b110-0f128df21461.svg)
 
+## 𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 ❤️ 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 𝚜𝚘𝚖𝚎 𝚘𝚏 𝚝𝚑𝚎 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜!
 
 
 
-### 🐍 Watch my contribution graph get eaten by the snake
-![contributionbar](https://raw.githubusercontent.com/VikashPR/VikashPR/728c3efb687e791e7c393325f01482901dd155e5/github-contribution-grid-snake-dark.svg)
-
-
-
-
-
-![wave](https://user-images.githubusercontent.com/78291316/222789458-d5995d68-d1bd-46d6-927c-a55471e8913c.svg)
+![bottombanner](https://github.com/JayantGoel001/JayantGoel001/blob/master/WEBP/footer.webp)
