@@ -1,35 +1,30 @@
 # ![Greetings](https://user-images.githubusercontent.com/78291316/222813359-7023f917-d906-43b9-85ea-c27de5d44da9.gif)
 
+ #### • 🔭 I'm currently working on Spring Boot.
+ #### • 🌱 I'm currently learning ML(Machine Learning).
+ #### • 👯‍♂️ I'm looking to collaborate on Android, Data Science, Game Development, ML(Machine Learning) & Web Development.
+ #### • 💬 Ask Me About Anything here! I am happy to help.
+ #### • 😄 Pronouns: He/Him/His.
 
 
 
-  
-   [![GitHub Streak](https://streak-stats.demolab.com/?user=anshumanbahekar)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=anshumanbahekar)](https://git.io/streak-stats)
 
-
-
-
+![rgblights](https://cdn.discordapp.com/attachments/870649335451361320/870944688545366057/Narrow_rgb_loading.gif)
 
 
 ### 📊 Github Stats:
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anshumanbahekar)](https://github.com/anuraghazra/github-readme-stats)
-
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anshumanbahekar&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anshumanbahekar)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=anshumanbahekar&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-![contributionbar](https://raw.githubusercontent.com/VikashPR/VikashPR/728c3efb687e791e7c393325f01482901dd155e5/github-contribution-grid-snake-dark.svg)
+![contributionbar](https://github.com/JayantGoel001/JayantGoel001/blob/master/github-contribution-grid-snake.svg)
 
-
-
-
-
-
+#
 ### 🔨 Tech Stack
-
 ![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d527573742d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d72757374](https://user-images.githubusercontent.com/78291316/222792125-df8672a1-a781-4893-92a2-1f5ad8152d2e.svg)
 ![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d432d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d63](https://user-images.githubusercontent.com/78291316/222792141-0075a9f1-60ef-4759-bff9-4ef684dfe0c6.svg)
 ![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d6a617661736372697074](https://user-images.githubusercontent.com/78291316/222792146-66e6ee17-84ae-4fac-9487-f2d3667ff1b2.svg)
@@ -53,8 +48,8 @@
 ![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a51756572792d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d6a7175657279](https://user-images.githubusercontent.com/78291316/222793951-b0258f8a-c8da-4d6c-a1ae-76d8b718fc2d.svg)
 ![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4772617068514c2d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d6772617068716c](https://user-images.githubusercontent.com/78291316/222793962-7eb2f7f7-fc90-43df-b110-0f128df21461.svg)
 
-## 𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 ❤️ 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 𝚜𝚘𝚖𝚎 𝚘𝚏 𝚝𝚑𝚎 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜!
-
-
-
+#
+###
+### *Show some ❤️ by starring some of the repositeries!*
+#
 ![bottombanner](https://github.com/JayantGoel001/JayantGoel001/blob/master/WEBP/footer.webp)
