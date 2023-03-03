@@ -1,5 +1,3 @@
-![helloworld](https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png)
-
 # ![Greetings](https://user-images.githubusercontent.com/78291316/222813359-7023f917-d906-43b9-85ea-c27de5d44da9.gif)
 
  #### • 🔭 I'm currently working on Spring Boot.
