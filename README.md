@@ -1,10 +1,8 @@
 ![Hello World](https://user-images.githubusercontent.com/78291316/222873732-7d3d4619-87d1-4be1-bea3-0af78c39948c.gif)
-
-![Visitor Count](https://profile-counter.glitch.me/{anshumanbahekar}/count.svg)
-
-
 # ![Greetings](https://user-images.githubusercontent.com/78291316/222813359-7023f917-d906-43b9-85ea-c27de5d44da9.gif)
-
+#### ❤️ Visitor Count
+![Visitor Count](https://profile-counter.glitch.me/{anshumanbahekar}/count.svg)
+#
  #### • 🔭 I'm currently working on Spring Boot.
  #### • 🌱 I'm currently learning ML(Machine Learning).
  #### • 👯‍♂️ I'm looking to collaborate on Android, Data Science, Game Development, ML(Machine Learning) & Web Development.
@@ -14,7 +12,6 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=anshumanbahekar)](https://git.io/streak-stats)
 
 ![rgblights](https://cdn.discordapp.com/attachments/870649335451361320/870944688545366057/Narrow_rgb_loading.gif)
-
 
 ### 📊 Github Stats:
 
