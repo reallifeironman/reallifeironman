@@ -19,9 +19,8 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anshumanbahekar)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=anshumanbahekar&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=anshumanbahekar&theme=react-dark)](https://github.com/anshumanbahekar/github-readme-activity-graph)
 
-![contributionbar](https://github.com/JayantGoel001/JayantGoel001/blob/master/github-contribution-grid-snake.svg)
 
 #
 ### 🔨 Tech Stack
@@ -49,7 +48,4 @@
 ![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4772617068514c2d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d6772617068716c](https://user-images.githubusercontent.com/78291316/222793962-7eb2f7f7-fc90-43df-b110-0f128df21461.svg)
 
 #
-###
-### *Show some ❤️ by starring some of the repositeries!*
-#
-![bottombanner](https://github.com/JayantGoel001/JayantGoel001/blob/master/WEBP/footer.webp)
+![bottombanner](https://cdn.discordapp.com/attachments/1055207557729370113/1142849591683850341/Black_Liquid_Minimalist_Daily_Quotes_LinkedIn_Banner.png)
