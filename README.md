@@ -26,28 +26,72 @@
 
 #
 ### 🔨 Tech Stack
-![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d527573742d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d72757374](https://user-images.githubusercontent.com/78291316/222792125-df8672a1-a781-4893-92a2-1f5ad8152d2e.svg)
-![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d432d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d63](https://user-images.githubusercontent.com/78291316/222792141-0075a9f1-60ef-4759-bff9-4ef684dfe0c6.svg)
-![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d6a617661736372697074](https://user-images.githubusercontent.com/78291316/222792146-66e6ee17-84ae-4fac-9487-f2d3667ff1b2.svg)
-![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d547970655363726970742d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d74797065736372697074](https://user-images.githubusercontent.com/78291316/222792151-777777bb-a0b4-4a85-b512-7de5b5a946e0.svg)
-![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4e6f64656a732d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d4e6f64652e6a73](https://user-images.githubusercontent.com/78291316/222792243-59f272f7-7533-41be-a986-a48def803f18.svg)
-![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176612d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d6a617661](https://user-images.githubusercontent.com/78291316/222792438-9e594026-3a31-415b-aaf4-f67599d45fae.svg)
-![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d507974686f6e2d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d707974686f6e](https://user-images.githubusercontent.com/78291316/222792446-e373745d-0b32-4916-a670-f37e05f0cb8e.svg)
-![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e75782d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d6c696e7578](https://user-images.githubusercontent.com/78291316/222792460-f53233a0-78aa-4876-8c59-87d1b02c3038.svg)
-![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769742d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d676974](https://user-images.githubusercontent.com/78291316/222792476-b3b00462-f74a-463e-92fb-f478c138f72c.svg)
-![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4b756265726e657465732d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d6b756265726e65746573](https://user-images.githubusercontent.com/78291316/222792548-62ec47aa-cd60-402e-b3ce-35636d47ec4c.svg)
-![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d446f636b65722d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d646f636b6572](https://user-images.githubusercontent.com/78291316/222792590-dc82a8f4-ae8b-4368-8929-c1a6f6caf30e.svg)
-![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d506f646d616e2d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d706f646d616e](https://user-images.githubusercontent.com/78291316/222792600-4cddb813-a8fb-43bb-be1c-723e5cb0f003.svg)
-![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d47726166616e612d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d67726166616e61](https://user-images.githubusercontent.com/78291316/222792613-6d1e640b-9faf-4908-86a1-f89ec9116b36.svg)
-![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d576562417373656d626c792d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d776562617373656d626c79](https://user-images.githubusercontent.com/78291316/222792640-717c0a75-33f6-408f-a6d3-cd35361e572f.svg)
-![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d50726f6d6574686575732d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d70726f6d657468657573](https://user-images.githubusercontent.com/78291316/222793755-617d387d-d745-4ae1-9f55-5365a0ea2a94.svg)
-![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4e504d2d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d6e706d](https://user-images.githubusercontent.com/78291316/222793781-3759c0be-b9ca-407c-be41-27358ffd190b.svg)
-![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6573742d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d6a657374](https://user-images.githubusercontent.com/78291316/222793890-f4590a03-44a5-4425-99b2-1787c6c9f1b0.svg)
-![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d457870726573732d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d65787072657373](https://user-images.githubusercontent.com/78291316/222793900-664ca653-e516-488c-b836-44f26dca789e.svg)
-![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5368656c6c5f5363726970742d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d676e752d62617368](https://user-images.githubusercontent.com/78291316/222793917-a12e96f2-2b9f-49c6-9d9d-27cf9fcceaea.svg)
-![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d426f6f7473747261702d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d626f6f747374726170](https://user-images.githubusercontent.com/78291316/222793930-4d146fd5-b737-4048-bd7c-4ea79250247d.svg)
-![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a51756572792d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d6a7175657279](https://user-images.githubusercontent.com/78291316/222793951-b0258f8a-c8da-4d6c-a1ae-76d8b718fc2d.svg)
-![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4772617068514c2d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d6772617068716c](https://user-images.githubusercontent.com/78291316/222793962-7eb2f7f7-fc90-43df-b110-0f128df21461.svg)
+<div>  
+<a href="https://angular.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="50" /></a>  
+<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>  
+<a href="https://dotnet.microsoft.com/download/dotnet-framework" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET" height="50" /></a>  
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
+<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
+<a href="https://docs.spring.io/spring-framework/docs/3.0.x/reference/expressions.html#:~:text=The%20Spring%20Expression%20Language%20(SpEL,and%20basic%20string%20templating%20functionality." target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="50" /></a>  
+<a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+<a href="https://opencv.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" height="50" /></a>  
+<a href="https://www.adobe.com/in/products/xd.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobexd.png" alt="Adobe XD" height="50" /></a>  
+<a href="https://wordpress.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" /></a>  
+<a href="https://nestjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nestjs.svg" alt="NestJS" height="50" /></a>  
+<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
+<a href="https://dotnet.microsoft.com/download" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dotnetcore.png" alt=".Net Core" height="50" /></a>  
+<a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="50" /></a>  
+<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
+<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
+<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
+<a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
+<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
+<a href="https://www.oracle.com/in/index.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/oracle-original.svg" alt="Oracle" height="50" /></a>  
+<a href="https://kotlinlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg" alt="Kotlin" height="50" /></a>  
+<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" /></a>  
+<a href="https://www.adobe.com/in/products/premiere.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobepremierepro.png" alt="Premiere Pro" height="50" /></a>  
+<a href="https://graphql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="50" /></a>  
+<a href="https://nuxtjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nuxt.png" alt="Nuxt JS" height="50" /></a>  
+<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
+<a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" /></a>  
+<a href="https://www.android.com/intl/en_in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="50" /></a>  
+<a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" /></a>  
+<a href="https://go.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="Go" height="50" /></a>  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
+<a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" /></a>  
+<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
+<a href="https://www.raspberrypi.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/raspberrypi.png" alt="Raspberry Pi" height="50" /></a>  
+<a href="https://jquery.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" /></a>  
+<a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="50" /></a>  
+<a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" /></a>  
+<a href="https://nativescript.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nativescript.png" alt="NativeScript" height="50" /></a>  
+<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
+<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>  
+<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
+<a href="https://backbonejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/backbonejs-original-wordmark.svg" alt="Backbone.js" height="50" /></a>  
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
+<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
+<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
+<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
+<a href="https://developer.apple.com/swift/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/swift-original-wordmark.svg" alt="Swift" height="50" /></a>  
+<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
+<a href="https://flutter.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="50" /></a>  
+<a href="https://www.chartjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="50" /></a>  
+<a href="https://azure.microsoft.com/en-in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="50" /></a>  
+<a href="https://www.adobe.com/products/photoshop-lightroom.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/lightroom.png" alt="Lightroom" height="50" /></a>  
+<a href="https://www.arduino.cc/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="50" /></a>  
+<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>  
+<a href="https://www.adobe.com/in/products/aftereffects.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/aftereffects.png" alt="After Effects" height="50" /></a>  
+<a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" /></a>  
+</div>
+
+#
+
+### Support 🙏
+<p><a href="https://www.buymeacoffee.com/anshumanbahekar"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="anshumanbahekar" /></a></p><br><br>
 
 #
 ![bottombanner](https://cdn.discordapp.com/attachments/1055207557729370113/1142849591683850341/Black_Liquid_Minimalist_Daily_Quotes_LinkedIn_Banner.png)
