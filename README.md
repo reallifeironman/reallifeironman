@@ -5,7 +5,7 @@
 #
  #### • 🔭 I'm currently working on Spring Boot.
  #### • 🌱 I'm currently learning ML(Machine Learning).
- #### • 👯‍♂️ I'm looking to collaborate on Android, Data Science, Game Development, ML(Machine Learning) & Web Development.
+ #### • 👯‍♂️ I'm looking to collaborate on Android, Data Science, Game Development, ML(Machine Learning) and web Development.
  #### • 💬 Ask Me About Anything here! I am happy to help.
  #### • 😄 Pronouns: He/Him/His.
 
@@ -14,6 +14,8 @@
 ![rgblights](https://cdn.discordapp.com/attachments/870649335451361320/870944688545366057/Narrow_rgb_loading.gif)
 
 ### 📊 Github Stats:
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=anshumanbahekar&theme=gruvbox)](https://github.com/anshumanbahekar)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anshumanbahekar&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
