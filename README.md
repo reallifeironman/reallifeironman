@@ -94,4 +94,4 @@
 <p><a href="https://www.buymeacoffee.com/anshumanbahekar"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="anshumanbahekar" /></a></p><br><br>
 
 #
-![bottombanner](https://cdn.discordapp.com/attachments/1055207557729370113/1142849591683850341/Black_Liquid_Minimalist_Daily_Quotes_LinkedIn_Banner.png)
+![bottombanner](https://cdn.discordapp.com/attachments/1055207557729370113/1142849591683850341/Black_Liquid_Minimalist_Daily_Quotes_LinkedIn_Banner.png?ex=661bfc9f&is=6609879f&hm=624a2de5b1f8df9962f3caf4d7309482658b3b847becaff374a9b0e681c3503c&)
