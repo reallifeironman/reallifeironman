@@ -63,16 +63,18 @@
 
 
 #
-### 🔨 Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=ae,androidstudio,angular,apple,react,flutter,arduino,aws,azure,bash,bootstrap,c,cs,cpp,codepen,css,dart,discord,bots,discordjs,docker,dotnet,electron,flask,html,idea,java,js,jquery,kotlin,kubernetes,linkedin,linux,md,mongodb,mysql,nextjs,ps,stackoverflow,spring,swift,unity,vim,webflow,webpack&perline=7)](https://skillicons.dev)
+### 🔨 Tech Stack:
+[![My Skills](https://skillicons.dev/icons?i=ae,androidstudio,angular,apple,react,flutter,arduino,aws,azure,bash,bootstrap,c,cs,cpp,codepen,css,dart,discord,bots,discordjs,docker,dotnet,electron,flask,html,idea,java,js,jquery,kotlin,kubernetes,linkedin,linux,md,mongodb,mysql,nextjs,ps,stackoverflow,spring,swift,unity,vim,webflow,webpack&perline=23)](https://skillicons.dev)
 
 #
 
-### Support 🙏
+### ❤️ Support:
 <p><a href="https://www.buymeacoffee.com/anshumanbahekar"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="anshumanbahekar" /></a></p><br><br>
 
 #
 
 
-<img src="https://forthebadge.com/images/badges/built-with-love.svg" />
+
+## Build with ❤️ by Iron Man
+## Love you 3000 ❤️
 
